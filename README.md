@@ -1,6 +1,7 @@
 # ledger-cli-rs
-Ledger-cli (PTA) port to Rust
+Ledger-cli (PTA) potential port to Rust
 
+# Introduction
 This repository is a collaboration point for any potential [Ledger](https://ledger-cli.org/)-compatible port to Rust.
 
 At the moment, you might be interested in [Discussions](https://github.com/alensiljak/ledger-cli-rs/discussions) or Wiki sections.
@@ -11,3 +12,7 @@ The activities here are a continuation of the
 - [Poll](https://www.reddit.com/r/plaintextaccounting/comments/zjtz9x/interested_in_contributing_to_ledger_port_to_rust/)
 
 discussions on Reddit [Plain Text Accounting](https://www.reddit.com/r/plaintextaccounting/) channel.
+
+# Background 
+
+Ledger is the initial program applying the [Plain-Text Accounting](https://plaintextaccounting.org/) principles.
