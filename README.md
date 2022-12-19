@@ -1,5 +1,5 @@
-# ledger-cli-rs
-Ledger-cli (PTA) port to Rust
+# Incubator
+The idea hub for Ledger-cli-compatible Rust port
 
 # Introduction
 
