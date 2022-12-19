@@ -14,6 +14,8 @@ The initial idea was to create a Ledger-compatible implementation in Rust. Due t
 
 # Participation
 
+The participation is open for everyone! If you are interested in the project, please join in the activities.
+
 Please use the Discussions area to raise any issues you would like to get addressed. If the existing categories do not match, they can be rearranged to better suit our needs.
 
 The Open Questions category contains the issues that require group collaboration and some sort of agreement before the decision is made and real work should follow. The idea is to measure three times and cut once, similar to Rust's RFC process.
