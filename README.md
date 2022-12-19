@@ -12,7 +12,7 @@ The Wiki section contains some static references and is useful as a notepad for 
 
 The initial idea was to create a Ledger-compatible implementation in Rust. Due to Rust's rising popularity, it might be a good time to gather people who might want to learn and use Rust and, at the same time, breathe some new wind into Ledger-cli, providing new features, fixing existing issues, etc.
 
-# Discussions
+# Participation
 
 Please use the Discussions area to raise any issues you would like to get addressed. If the existing categories do not match, they can be rearranged to better suit our needs.
 
